@@ -1668,10 +1668,10 @@ footer .footer-widget ul li a:hover {
   background: #ffffff url(../../img/icons/two-arrow-hover.png) center center no-repeat;
 }
 #featured-products .single-featured-product .img-holder .icons li a.favorite:hover {
-  background: #ffffff url(../img/icons/love-icon-hover.png) center center no-repeat;
+  background: #ffffff url(../../img/icons/love-icon-hover.png) center center no-repeat;
 }
 #featured-products .single-featured-product .img-holder .icons li a.zoom-image:hover {
-  background: #ffffff url(../img/icons/search-icon-hover.png) center center no-repeat;
+  background: #ffffff url(../../img/icons/search-icon-hover.png) center center no-repeat;
 }
 #featured-products .single-featured-product .meta {
     margin-top: 18px;
