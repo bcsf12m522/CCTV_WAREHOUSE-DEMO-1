@@ -1,0 +1,718 @@
+@media only screen and (min-width: 950px) and (max-width: 1024px) {
+#featured-collection .featured-collection-content.content-home .single-featured-collection .content {
+   
+    top: 52% !important;
+}
+}
+@media (min-width: 0px) and (max-width: 420px){
+    .modal-dialog{
+      width: 100%;
+    }
+.img-over {
+    top: 73% !important;
+}
+.bg-yelllow {
+
+    display: none;
+}
+.login-register-page form button {
+
+    margin-top: 10px;
+}
+.modal-dialog {
+    width: auto !important;
+}
+  .bg-white .nav.nav-pills li {
+    margin-right: 39px;
+}
+.feshion-text > h1 {
+  
+    font-size: 41px;
+   
+    left: 0%;
+   
+}
+.pading-top .section-title.word > h1 {
+    left: -5px;
+    
+}
+.men-feshion2 .form-inner {
+   
+    left: 0px;
+
+}
+.carsoule-holder.home2 .carsoule-content {
+    padding: 30px 20px !important;
+}
+.collection-title > h1 {
+
+    font-size: 22px;
+}
+.gents-f {
+ 
+    bottom: 3%;
+    left: 12%;
+   
+}
+.section-title.word.word2 > h1 {
+    left: 0;
+}
+.section-title.word h1::after {
+    display: none;
+}
+.section-title.word h1::before {
+    display: none;
+}
+.bg-white .nav.nav-pills.mrgt4x.mrgb4x a {
+    color: #a0a0a0;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 8px 7px;
+}
+.bg-white .nav.nav-pills li:first-child {
+    margin: 0 !important;
+}
+.bg-white .nav.nav-pills li {
+    margin: 0;
+}
+.col-lg-7.col-md-7.hot-collection-left-info .bold {
+
+    font-size: 22px !important;
+    
+}
+#our-hot-collections .bg-white .hot-collection-carousel .hot-collection-carousel-control {
+    right: 9px;
+}
+#our-hot-collections .hot-collection-carousel .hot-collection-carousel-control {
+    bottom: -42px;
+   }
+   .feshion-text > h1 {
+    font-size: 21px;
+    left: 0;
+}
+.wear {
+
+    font-size: 17px;
+
+}
+.feshion-text > p {
+
+    font-size: 10px !important;
+
+    line-height: 13px;
+
+}
+.men-feshion {
+    margin-top: 20px;
+  
+}
+#newsletter2 form button {
+    font-size: 10px !important;
+
+}
+
+.form-inner {
+    left: 8px;
+    padding: 17px 4px 94px;
+
+    right: 8px;
+
+}
+.form-inner > h4 {
+    font-size: 13px;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+  
+}
+.form-inner > form {
+    width: 240px;
+}
+#newsletter2 form button {
+    font-size: 10px !important;
+
+}
+.form-inner > span {
+
+    font-size: 13px;
+    margin-top: 0px;
+   
+}
+.section-title.word > h1 {
+        left: 7%;
+ 
+}
+}
+@media (min-width: 380px) and (max-width: 510px){
+
+.section-title.word.word2 > h1 {
+    left: 13%;
+}
+.modal-dialog {
+    width: auto !important;
+}
+.login-register-page .social-signin button, .social-signing a {
+
+    padding: 0 29px;
+ 
+}
+.img-over {
+
+    top: 65%;
+
+}
+}
+@media only screen and (min-width: 580px) and (max-width: 810px) {
+.feshion-text > h1 {
+    left: -9%;
+}
+.collection-title > h1 {
+    font-size: 22px;
+}
+.delivering.pading-top .section-title.word > h1 {
+    left: 25% !important;
+}
+.modal-dialog {
+    width: auto!important;
+}
+.col-md-7 .content-popup {
+    padding-bottom: 20px;
+
+}
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /*======== 1024-- header Styles ===========*/
+  .main-nav-toggler {
+    display: block;
+    margin-top: -3px;
+    float: left;
+  }
+  #latest-blog .section-title.word.word2 > h1 {
+    left: 26%;
+}
+  header {
+    position: relative;
+  }
+  header nav.mainmenu {
+    display: block;
+    float: none;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 2147483647;
+    overflow: hidden;
+    left: 0;
+  }
+  header nav.mainmenu ul {
+    background: #fff;
+  }
+  /*======== 1024-- featured products Styles ===========*/
+  #featured-products .single-featured-product .img-holder img {
+    width: 100%;
+  }
+  #featured-products .single-featured-product .meta {
+    text-align: center;
+  }
+  #featured-products .single-featured-product .meta span.stars {
+    float: none;
+  }
+  /*======== 1024-- what we offer Styles ===========*/
+  #what-we-offer .img-holder img {
+    width: 100%;
+  }
+  #what-we-offer .carsoule-holder {
+    margin-bottom: 20px;
+  }
+  /*======== 1024-- latest blog Styles ===========*/
+  #latest-blog .img-wrap {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  /*======== 1024-- footer Styles ===========*/
+  footer .footer-widget .social-icons li a {
+    width: 27px;
+    height: 27px;
+    font-size: 14px;
+    line-height: 27px;
+  }
+  footer .footer-widget .img-gallery li:nth-child(3n) img {
+    margin-right: 10px;
+  }
+  /*======== 1024-- services style two Styles ===========*/
+  #services.style-two ul li span.image-holder img {
+    width: 121px;
+  }
+  /*======== 1024-- sidebar gallery Styles ===========*/
+  .sidebar .single-sidebar.gallery ul li:nth-child(3n) img {
+    margin-right: 10px;
+  }
+  /*======== 1024-- single blog page Styles ===========*/
+  .single-blog-page .post-author .content {
+    width: 81%;
+  }
+  .single-blog-page .post-author .content br {
+    display: none;
+  }
+  .single-blog-page .comments .single-comments .content {
+    width: 80%;
+  }
+  .single-product.no-sidebar .col-lg-8 {
+    padding-left: 50px;
+  }
+  .single-shop-item .img-holder img {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*========  768-- header responsive Styles ===========*/
+  .main-nav-toggler {
+    display: block;
+    margin-top: -3px;
+    float: left;
+  }
+  .modal-dialog {
+    width: auto!important;
+}
+  header .search form {
+    float: right;
+    width: 82%;
+  }
+  header {
+    position: relative;
+  }
+  header nav.mainmenu {
+    display: block;
+    float: none;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    left: 0;
+    z-index: 2147483647;
+  }
+  header nav.mainmenu ul {
+    background: #fff;
+  }
+  header .logo {
+    margin-bottom: 0;
+  }
+  /*======== 768--  services Styles ===========*/
+  #services {
+    border: 0px solid #e5e5e5;
+  }
+  #services .single-service {
+    margin-bottom: 20px;
+    border: 1px solid #e5e5e5 !important;
+  }
+  #services .single-service ul li span img {
+    height: 40px;
+  }
+  /*======== 768-- featured products Styles ===========*/
+  #featured-products .single-featured-product {
+    margin-bottom: 30px;
+  }
+  #featured-products .single-featured-product .meta {
+    text-align: center;
+  }
+  #featured-products .single-featured-product .meta span.stars {
+    float: none;
+  }
+  /*======== 768-- what we offer Styles ===========*/
+  #what-we-offer .img-holder img {
+    width: 100%;
+  }
+  #what-we-offer .carsoule-holder {
+    margin-bottom: 20px;
+  }
+  /*======== 768-- hot collection Styles ===========*/
+  .hot-collection-left-info {
+    margin-bottom: 30px;
+  }
+  /*======== 768-- popular item Styles ===========*/
+  #popular-items .col-lg-4 {
+    margin-bottom: 40px;
+  }
+  /*======== 768-- footer-widget Styles ===========*/
+  .footer-widget {
+    margin-bottom: 30px;
+  }
+  .mb0-768 {
+    margin-bottom: 0;
+  }
+  /*======== 768-- service style two Styles ===========*/
+  #services.style-two .single-service ul li span img {
+    height: auto;
+  }
+  /*======== 768-- call to action Styles ===========*/
+  .call-to-action h1 {
+    line-height: 38px;
+  }
+  /*======== 768-- featured collection  Styles ===========*/
+  #featured-collection .featured-collection-content .single-featured-collection img {
+    width: 100%;
+  }
+  /*======== 768-- our hot collection Styles ===========*/
+  #our-hot-collections .col-md-5 {
+    text-align: center;
+  }
+  /*======== 768-- our skills Styles ===========*/
+  .our-skills {
+    margin-top: 30px;
+  }
+  /*======== 768-- our team Styles ===========*/
+  .single-meet-team {
+    margin-bottom: 30px;
+  }
+  .single-blog-page .comments .single-comments > .nested-comment {
+    padding-left: 30px;
+  }
+  .single-shop-item.single-product .single-product-thumb-wrap .single-product-thumb-carsoule img {
+    height: auto;
+  }
+  #featured-collection .featured-collection-content.content-home .single-featured-collection .content {
+
+    top: 45% !important;
+}
+.single-shop-item.single-product .single-selection {
+
+    margin-right: 0px;
+  }
+}
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+.modal-header {
+    right: 2px !important;
+}
+.men-feshion img {
+    width: 100%;
+}
+.bg-yelllow {
+    text-align: left;
+    padding-left: 50px;
+}
+
+  .login-register-page .social-signin button, .social-signing a {
+
+    margin-right: 0px;
+    padding: 0 27px;
+
+}
+#myModal .social-signin > button:first-child {
+    margin-left: 0;
+    margin-right: 10px !important;
+}
+.bg-white .nav.nav-pills li {
+    margin-right: 18px !important;
+}
+.bg-white .nav.nav-pills li:first-child {
+    margin-left: 0px !important;
+}
+.border-inner {
+   bottom: 11px;
+    left: 11px;
+    padding: 20px;
+    position: absolute;
+    right: 13px;
+    top: 11px;
+    width: 96%;
+}
+.section-title.word > h1 {
+
+    left: 33%;
+
+}
+.men-feshion {
+    margin-top: 20px;
+ 
+}
+.top-bar .col-lg-12.remember-forgot.clearfix > a {
+    border-left: medium none;
+}
+}
+
+@media only screen and (max-width: 767px) {
+  /*======== 320-- sidebar hidden widget Styles ===========*/
+  #sidebar-hidden-widget {
+    padding: 40px 25px;
+    width: 100%;
+  }
+  /*======== 320-- header Styles ===========*/
+  header.header-fixed {
+    position: static;
+  }
+  header .logo {
+    text-align: center;
+  }
+  .main-nav-toggler {
+    display: block;
+    float: left;
+    position: relative;
+    top: -3px;
+  }
+  header .search form {
+    width: 79%;
+    float: right;
+  }
+  /*======== 320-- services Styles ===========*/
+  #services .single-service ul li,
+  #services .single-service ul li span {
+    display: block;
+  }
+  #services .single-service ul li span {
+    text-align: center;
+  }
+  #services .single-service ul li span img {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  /*======== 320-- featured products Styles ===========*/
+  #featured-products .single-featured-product,
+  #featured-products.with-filter .single-featured-product {
+    float: none;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  #featured-products .single-featured-product .img-holder img {
+    width: 100%;
+  }
+  /*======== 320-- what we offer Styles ===========*/
+  #what-we-offer .carsoule-holder {
+    margin-bottom: 30px;
+  }
+  #what-we-offer .carsoule-content {
+    padding: 45px 15px 30px 15px;
+  }
+  #what-we-offer .img-holder img {
+    width: 100%;
+    height: 300px;
+  }
+  #what-we-offer .img-holder h3 {
+    line-height: 30px;
+    top: 30%;
+  }
+  #what-we-offer .carsoule-custom-pager {
+    left: 15px;
+    position: absolute;
+    top: 15px;
+  }
+  /*======== 320-- hot collection Styles ===========*/
+  .hot-collection-carousel {
+    margin-top: 30px;
+  }
+  /*======== 320-- latest blog Styles ===========*/
+  #latest-blog .img-wrap {
+    margin-bottom: 20px;
+  }
+  /*======== 320-- popular items Styles ===========*/
+  #popular-items .col-lg-4 {
+    margin-bottom: 30px;
+  }
+  /*======== 320-- footer widget Styles ===========*/
+  footer .footer-widget {
+    margin-bottom: 30px;
+  }
+  /*======== 320-- bottom bar Styles ===========*/
+  #bottom-bar p {
+    text-align: center !important;
+  }
+  #bottom-bar .payment-logo {
+    text-align: center;
+  }
+  #bottom-bar .pull-left,
+  #bottom-bar .pull-right {
+    float: none !important;
+  }
+  /*======== 320-- services style two Styles ===========*/
+  #services.style-two ul li {
+    background: none !important;
+  }
+  #services.style-two ul li span {
+    float: none !important;
+    text-align: center;
+  }
+  #services.style-two ul li span a {
+    float: none;
+  }
+  /*======== 320-- featured products with filter Styles ===========*/
+  #featured-products.with-filter {
+    overflow: hidden;
+  }
+  #featured-products.with-filter .filter-wraper ul li span {
+    margin-bottom: 20px;
+  }
+  #featured-products.with-filter .single-featured-product {
+    margin-left: 7.5%;
+  }
+  /*======== 320-- call to action Styles ===========*/
+  .call-to-action h1 {
+    line-height: 50px;
+  }
+  .call-to-action p {
+    line-height: 40px;
+  }
+  /*======== 320-- featured collection Styles ===========*/
+  #featured-collection .featured-collection-content .single-featured-collection.small-height img {
+    height: 240px;
+  }
+  #featured-collection .featured-collection-content .single-featured-collection img {
+    width: 100%;
+  }
+  /*======== 320-- our skills Styles ===========*/
+  .our-skills {
+    margin-top: 30px;
+  }
+  /*======== 320-- accrodion Styles ===========*/
+  .accrodion-wrap .accrodion .accrodion-content {
+    padding-left: 15px;
+  }
+  /*======== 320-- our team Styles ===========*/
+  .single-meet-team {
+    margin-bottom: 30px;
+  }
+  /*======== 320-- Sidebar Styles ===========*/
+  .sidebar {
+    margin-top: 30px;
+  }
+  /*======== 320-- pagination Styles ===========*/
+  .pagenation li a,
+  .pagenation li span {
+    margin-bottom: 10px;
+  }
+  /*======== 320-- single blog Styles ===========*/
+  .blog-page .single-blog-post .title-holder .comments-count {
+    top: 55px;
+  }
+  .single-blog-page .post-author .img-holder {
+    float: none;
+    width: 90px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .single-blog-page .post-author .content {
+    float: none;
+    width: 100%;
+  }
+  .single-blog-page .comments .single-comments .img-holder {
+    width: 70px;
+    margin: auto;
+    margin-bottom: 30px;
+    float: none;
+  }
+  .single-blog-page .comments .single-comments > .nested-comment,
+  .reviews .comments .single-comments > .nested-comment {
+    padding-left: 30px;
+  }
+  .single-blog-page .comments .single-comments > .nested-comment.level-two {
+    padding-left: 0;
+  }
+  .checkout-page-content .cart-total tr.ordered-item td:first-child {
+    padding-left: 41px;
+  }
+  .checkout-page-content .payment-tab-wrap .payment-tab-title ul li {
+    width: 50%;
+  }
+  .login-register-page .social-signin button {
+    margin-bottom: 20px;
+  }
+  .single-product-tab .single-product-tab-title li a {
+    font-size: 11px;
+  }
+  .single-shop-item.single-product .single-product-thumb-wrap .single-product-thumb-carsoule img {
+    height: auto;
+  }
+  .single-shop-item .img-holder img {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /*======== 480-- headder Styles ===========*/
+  header .search form {
+    width: 85%;
+  }
+  /*======== 480-- featured products Styles ===========*/
+  #featured-products .single-featured-product {
+    width: 65%;
+  }
+  /*======== 480-- what we offer Styles ===========*/
+  #what-we-offer .img-holder img {
+    height: 215px;
+  }
+  /*======== 480-- popular items Styles ===========*/
+  #popular-items .col-lg-4 {
+    width: 75%;
+    margin: auto;
+    margin-bottom: 30px;
+    float: none;
+  }
+  /*======== 480-- footer Styles ===========*/
+  footer .footer-widget {
+    width: 75%;
+    float: none;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  footer .footer-widget:last-child {
+    margin-bottom: 0;
+  }
+  /*======== 480-- sidebar hidden widget Styles ===========*/
+  #sidebar-hidden-widget {
+    width: 300px;
+  }
+  /*======== 480-- accrodion Styles ===========*/
+  .accrodion-wrap .accrodion .accrodion-content {
+    padding-left: 50px;
+  }
+  /*======== 480-- our team Styles ===========*/
+  .single-meet-team {
+    width: 75%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  /*======== 480-- blog page Styles ===========*/
+  .blog-page {
+    display: block;
+    width: 100%;
+    float: none;
+  }
+  /*======== 480-- sidebar Styles ===========*/
+  .sidebar {
+    width: 75%;
+    float: none;
+    margin: auto;
+    display: block;
+  }
+  .section-title.word h1::before {
+    display: none;
+}
+  .section-title.word h1::after {
+    display: none;
+}
+.section-title.word > h1 {
+    left: 22% !important;
+
+}
+.bg-white .nav.nav-pills.mrgt4x.mrgb4x a {
+    font-size: 10px;
+    padding: 10px;
+}
+.bg-white .nav.nav-pills li:first-child {
+    margin-left: 0px;
+}
+.bg-white .nav.nav-pills li {
+    margin-right: 0px;
+}
+.form-inner {
+llllllll
+    padding: 54px 4px 89px;
+
+}
+.bg-white {
+    left: 0%;
+ 
+   margin-top: 0px;
+    
+}
+@media only screen and (min-width: 800px) and (max-width: 1024px) {
+  .modal-dialog {
+    width: auto!important;
+}
+}
